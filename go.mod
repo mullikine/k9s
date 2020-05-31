@@ -42,3 +42,5 @@ require (
 	sigs.k8s.io/yaml v1.2.0
 	vbom.ml/util v0.0.0-20180919145318-efcd4e0f9787
 )
+
+replace github.com/derailed/k9s => /home/shane/var/smulliga/source/git/derailed/k9s/
